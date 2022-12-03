@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.michaelburgstaller.adventofcode</groupId>
-    <artifactId>day-02-rock-paper-scissors</artifactId>
+    <artifactId>day-03-reorganization</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
